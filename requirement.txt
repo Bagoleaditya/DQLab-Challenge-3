@@ -1,4 +1,4 @@
-pandas
-numpy
-matplotlib.pyplot
-seaborn
+MySQL Workbench
+Jupyter IDE 
+Python 3 
+Library = Pandas
